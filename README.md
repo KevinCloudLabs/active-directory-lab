@@ -127,18 +127,5 @@ nslookup lab.local     → confirmed resolution failure
 
 ---
 
-## 📁 Repository Structure
 
-```
-windows-server-ad-lab/
-├── README.md
-└── screenshots/
-    ├── ad-users-computers.png
-    ├── dhcp-scope.png
-    ├── client-domain-login.png
-    ├── dns-broken-error.png
-    └── dns-fixed-success.png
-```
-
----
 
