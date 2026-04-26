@@ -98,7 +98,7 @@ nslookup lab.local     → confirmed resolution failure
 ## 📸 Screenshots
 
 ### AD Users and Computers
-![AD Users and Computers](screenshots/ad-users-computers.png)
+![AD Users and Computers](screenshots/ad-users-computers.png) (screenshots/ad-users-computers2.png)
 
 ### DHCP Scope Configuration
 ![DHCP Scope](screenshots/dhcp-scope.png)
